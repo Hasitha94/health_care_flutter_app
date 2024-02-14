@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "936148210339",
+    "firebase_url": "https://authfirebase-a2e20-default-rtdb.firebaseio.com",
+    "project_id": "authfirebase-a2e20",
+    "storage_bucket": "authfirebase-a2e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936148210339:android:72c76132115dea39f9a516",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM5c3zo_BpljyPkYzRGsB8mN7Lb4_s4lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936148210339:android:d9da912210e31104f9a516",
+        "android_client_info": {
+          "package_name": "com.example.healthcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM5c3zo_BpljyPkYzRGsB8mN7Lb4_s4lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
